@@ -5,7 +5,7 @@ Built with vanilla HTML, CSS and JavaScript — no frameworks, no build step,
 drag-and-drop deploy to Netlify or any static host.
 
 ## Live demo
-[your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)
+(https://basitzportfolio.netlify.app/)
 
 ## What's inside
 
